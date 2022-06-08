@@ -1,0 +1,63 @@
+#outer{
+    position: relative;
+    width: 100% ;
+    margin: auto;
+    margin-top: 10px;
+    background: #FFF;
+    border: initial;
+    overflow: overlay;   
+    text-align: center;
+}
+body{
+    font-size: 11px;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    color: #8c8c73;
+    line-height: 20px;
+}
+#principalcontent{
+    width: 100%;
+    background-color:#FFF;
+}
+header{
+    max-width: 100%;
+    height: 100;
+    background: #f9f9f7 url('../img/cr.gif') repeat-x;
+    font-size: 11px;
+}
+#foto{
+    width: 25%;
+}
+table{
+    width: 50%;
+    text-align: center;
+    position: relative;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+#primarycontent{
+    text-align: center;
+    justify-content: center;
+    width: 74%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+ol.linklist  li{
+    border-top: solid 1px #EEEEEE ;
+    padding-top: 5px;
+    margin: 5px 0px 0px 0px;
+}
+ol.linklist{
+    text-align: center;
+    list-style: none;
+}
+footer{
+    border-top: double;
+    clear: both;/*Investigar*/
+    height:66px;
+    text-align: center;
+    color: #a8a88d;
+    padding-top: 15px;
+}
