@@ -1,0 +1,22 @@
+#outer{
+    position: relative;
+    width: 100% ;
+    margin: auto;
+    margin-top: 10px;
+    background: #FFF;
+    border: initial;
+    overflow: overlay;   
+    text-align: center;
+}
+img.picA{
+    position: relative;/*Investigar*/
+    top: -2px;
+    width: 275px;
+    height: 310px;
+    padding: 10px;
+}
+img.floatleft
+{
+    float: left;/*Investigar*/
+    margin: 0px 14px 3px 0px;
+}
